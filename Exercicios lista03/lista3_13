@@ -1,5 +1,0 @@
-dia = int(input("Dia: "))
-mes = int(input("Mes: "))
-
-if dia < 1 or dia > 31 or mes < 1 or mes > 12:
-    print("Data invalida")
